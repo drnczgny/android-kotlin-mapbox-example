@@ -1,4 +1,4 @@
-package com.adrian.android_kotlin_mapbox
+package com.adrian.mapboxapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.adrian.android_kotlin_mapbox
+package com.adrian.mapboxapp
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
